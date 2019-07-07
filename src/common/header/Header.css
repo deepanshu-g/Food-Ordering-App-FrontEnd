@@ -1,0 +1,18 @@
+.header-logo{
+   color: #ffffff;
+   font-size: 20px
+ }
+ .tabs{
+   margin-bottom:20px
+ }
+ .red{
+   color: red;
+   text-align: left;
+ }
+ .dispNone{
+   display: none;
+ }
+ .dispBlock{
+   display: block;
+ }
+ 
